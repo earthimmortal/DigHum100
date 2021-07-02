@@ -11,11 +11,11 @@ Instructor: Adam Anderson
 High School is a pivotal time in a student's life and will often determine the path a student wil take towards their future career through attending college.  However, college admissions are not easy and often require high gpa and test scores to be admitted. Through the dataset, Student Performance in exams, I used Machine Learning Algorthims to model and find factors that influence High School Test scores the most.
 
 Methods I use include:
--Linear Regression
--Ridge Regression
--Lasso Regression
--Random Forest
--Principal Components Regression
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Random Forest
+- Principal Components Regression
 
 
 
