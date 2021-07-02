@@ -28,7 +28,7 @@ Methods I use include:
 - Final Storyboard = DH 100 Data Storyboard Channing week 4 - Page 1.pdf
 - Final Poster = DH 100 Poster Final Version.pdf
 - Final Presentation = Dig Hum Final Presentation.pdf
-- Video = zoom_9.mp4
+- Video = finalrecording.mp4
 
 
 # Additional Information on items above:
