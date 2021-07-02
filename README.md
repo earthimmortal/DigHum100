@@ -3,7 +3,7 @@
 What you will find:
 - Dataset
 - Jupyter Notebook 
-- Storyboard :  https://drive.google.com/file/d/1KbSmSQX_mseeoyQNvFnfc3hLo4Yp7q_2/view?usp=sharing
+- Storyboard 
 
 Additional Information on items above:
 - Dataset: Has code written for data exploration
